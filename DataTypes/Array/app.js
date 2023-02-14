@@ -1,0 +1,14 @@
+var firstNames = ["Süleyman", "Ali", "Mustafa"];
+var firstNames2 = ["Süleyman2", "Ali2", "Mustafa2"];
+console.log(firstNames);
+console.log(firstNames2);
+var firstNames3;
+firstNames3 = ["Süleyman3", "Ali3", "Mustafa3"];
+console.log(firstNames3);
+var firstNumbers3;
+firstNumbers3 = [2, 6, 9];
+console.log(firstNumbers3);
+var values = ["Süleyman", 5, "Ali", 10, "Mustafa"];
+console.log(values);
+var values2 = ["Süleyman2", 52, "Ali2", 102, "Mustafa2"];
+console.log(values2);
