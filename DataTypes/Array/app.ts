@@ -17,3 +17,4 @@ console.log(values);
 
 let values2: Array<string | number> = ["Süleyman2",52,"Ali2",102,"Mustafa2"];
 console.log(values2);
+export {};
