@@ -6,4 +6,5 @@ console.log(firstString);
 
 let firstBoolean: boolean = true;
 console.log(firstBoolean);
+export {};
 
